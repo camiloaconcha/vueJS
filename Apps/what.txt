@@ -1,2 +1,10 @@
 Here Are my apps
+En Vue JS la instancia de la aplicacion se crea con la funcion:
+
+new Vue({
+
+    el:'#app',    //Es al elemento que va a modificar en este caso por su ID
+
+
+}) 
 
